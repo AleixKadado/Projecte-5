@@ -1,4 +1,3 @@
-```markdown
 # T01: Disseny de la Solució Tècnica Integrada
 
 ## Breu descripció
@@ -261,7 +260,3 @@ Cada equip haurà d’escollir una **especialització principal**, tot i que la 
 
 ## 8) Resum final (checklist d’inversors)
 L’equip ha de poder ensenyar **tots** els punts anteriors amb coherència, criteri i dades reals.
-
-> **IA com a accelerador, criteri humà com a garantia.**
-```
-
